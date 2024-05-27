@@ -73,3 +73,8 @@ for feature in categorical_features:
 print("\nFirst 5 rows of dataset with categorical features encoded:")
 print(df.head())
 #%%
+
+#%%
+# -------------- Exploratory Data Analysis -------------
+
+#%%
